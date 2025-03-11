@@ -1,4 +1,5 @@
 🚀 Next.js Deployment on Azure VM
+
 Deployed a Next.js app on an Azure Virtual Machine (Ubuntu 20.04 LTS) using PM2 and Nginx for production.
 
 📌 Overview
